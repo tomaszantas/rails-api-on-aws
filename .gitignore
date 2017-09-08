@@ -1,0 +1,10 @@
+# Ignore bundler config.
+/app/.bundle
+
+# Ignore all logfiles and tempfiles.
+/app/log/*
+/app/tmp/*
+!/app/log/.keep
+!/app/tmp/.keep
+
+/app/.byebug_history
