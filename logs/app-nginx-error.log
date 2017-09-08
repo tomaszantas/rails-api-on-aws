@@ -1,5 +1,0 @@
-2017/09/08 12:17:05 [crit] 5#5: *1 connect() to unix:///var/run/puma.sock failed (2: No such file or directory) while connecting to upstream, client: 155.94.88.58, server: , request: "GET / HTTP/1.0", upstream: "http://unix:///var/run/puma.sock:/"
-2017/09/08 12:17:05 [crit] 5#5: *1 connect() to unix:///var/run/puma.sock failed (2: No such file or directory) while connecting to upstream, client: 155.94.88.58, server: , request: "GET / HTTP/1.0", upstream: "http://unix:///var/run/puma.sock:/500.html"
-2017/09/08 13:48:42 [crit] 5#5: *1 connect() to unix:///var/run/puma.sock failed (2: No such file or directory) while connecting to upstream, client: 193.63.58.83, server: , request: "GET / HTTP/1.1", upstream: "http://unix:///var/run/puma.sock:/", host: "145.239.87.155"
-2017/09/08 13:48:42 [crit] 5#5: *1 connect() to unix:///var/run/puma.sock failed (2: No such file or directory) while connecting to upstream, client: 193.63.58.83, server: , request: "GET / HTTP/1.1", upstream: "http://unix:///var/run/puma.sock:/500.html", host: "145.239.87.155"
-2017/09/08 13:48:42 [info] 5#5: *1 client 193.63.58.83 closed keepalive connection
